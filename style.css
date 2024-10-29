@@ -1,0 +1,17 @@
+body,html {
+    height: 100px;
+    padding: 20px;
+}
+
+div {
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+
+section {
+    border: 2px solid black;
+    height: 300px;
+    display: flex;
+    padding: 10px;
+}
